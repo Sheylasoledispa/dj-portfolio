@@ -1,0 +1,13 @@
+body{
+    background: hsla(188, 25%, 55%, 0.952);
+
+
+.bg-cyan{
+    background: rgba(37, 92, 96, 0.634);
+}   
+
+.card-project:hover{
+    border: 3px solid #1d6b68;
+    cursor: pointer;
+}
+}
